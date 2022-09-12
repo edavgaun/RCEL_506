@@ -24,10 +24,10 @@ charges: Individual medical costs billed by health insurance
 
 # Type Of Attributes (most interesting to you):
 
-age is ordinal,
-sex is categorical,
-bmi is quantitative,
-children is quantitative,
-smoker is categorical,
-region is categorical, 
-charges is quantitative.
+* age is ordinal,
+* sex is categorical,
+* bmi is quantitative,
+* children is quantitative,
+* smoker is categorical,
+* region is categorical, 
+* charges is quantitative.
