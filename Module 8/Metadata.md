@@ -3,8 +3,6 @@
 This  Data is a pratical is used in the book [Machine Learning with R by Brett Lantz](https://www.amazon.com/Machine-Learning-R-Brett-Lantz/dp/1782162143); which is a book that provides an introduction to machine learning using R.
 All of these datasets are in the public domain but simply needed some cleaning up and recoding to match the format in the book. The following data obtained from [Kaggle](https://www.kaggle.com/mirichoi0218/insurance/home), explain the cost of a small sample of USA population Medical Insurance Cost based on some attributes depicted on **"Content"**.
 
-**VizHub data summary:** [Medical Cost Personal Datasets](https://beta.vizhub.com/meperezcuello/0bea76f9853741689ada495221c219ef?edit=files&file=index.html)
-
 ## Content:
 
 ```
