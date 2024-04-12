@@ -4,3 +4,8 @@ This case focuses on Uber's approach to innovation, primarily on how the company
 
 # Reference
 Farronato, C., MacCormack, A., & Mehta, S. (2018). Innovation at uber: The launch of express pool. Harvard Business School Case, 620, 062.
+
+
+# USA Housing Listings
+
+Craigslist is the world's largest collection of privately sold housing options
